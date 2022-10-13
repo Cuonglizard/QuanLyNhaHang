@@ -3,7 +3,7 @@ using Utils;
 
 namespace Models
 {
-    public class Table
+    public class Table:ITable
     {
         public string Name { get; set; }
         public string TableNo { get; set; }
