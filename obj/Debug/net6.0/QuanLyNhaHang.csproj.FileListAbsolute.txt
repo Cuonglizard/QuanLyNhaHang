@@ -1,0 +1,15 @@
+D:\QuanLyNhaHang\obj\Debug\net6.0\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\QuanLyNhaHang\obj\Debug\net6.0\QuanLyNhaHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanLyNhaHang\obj\Debug\net6.0\QuanLyNhaHang.AssemblyInfoInputs.cache
+D:\QuanLyNhaHang\obj\Debug\net6.0\QuanLyNhaHang.AssemblyInfo.cs
+D:\QuanLyNhaHang\obj\Debug\net6.0\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\QuanLyNhaHang\bin\Debug\net6.0\QuanLyNhaHang.exe
+D:\QuanLyNhaHang\bin\Debug\net6.0\QuanLyNhaHang.deps.json
+D:\QuanLyNhaHang\bin\Debug\net6.0\QuanLyNhaHang.runtimeconfig.json
+D:\QuanLyNhaHang\bin\Debug\net6.0\QuanLyNhaHang.dll
+D:\QuanLyNhaHang\bin\Debug\net6.0\QuanLyNhaHang.pdb
+D:\QuanLyNhaHang\obj\Debug\net6.0\QuanLyNhaHang.dll
+D:\QuanLyNhaHang\obj\Debug\net6.0\refint\QuanLyNhaHang.dll
+D:\QuanLyNhaHang\obj\Debug\net6.0\QuanLyNhaHang.pdb
+D:\QuanLyNhaHang\obj\Debug\net6.0\QuanLyNhaHang.genruntimeconfig.cache
+D:\QuanLyNhaHang\obj\Debug\net6.0\ref\QuanLyNhaHang.dll
