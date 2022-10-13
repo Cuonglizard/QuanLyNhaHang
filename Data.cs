@@ -1,5 +1,6 @@
 using System;
 using Utils;
+using System.Collections.Generic;
 
 
 namespace Models
@@ -20,7 +21,7 @@ namespace Models
 
             BookingList = new List<Booking>();
             RestaurantList = new List<Restaurant>();
-        }
+        }   
 
          public static Data GetInstance()
         {

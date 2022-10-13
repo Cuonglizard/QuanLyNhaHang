@@ -1,10 +1,11 @@
 using System;
+using System.Collections.Generic;
 using Utils;
 
 
 namespace Models
 {
-    public class Restaurant
+    public class Restaurant : IRestaurant
     {
         public String Name{get;set;}
         public string RestaurantNo { get; set; }

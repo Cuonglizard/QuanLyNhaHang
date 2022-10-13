@@ -1,8 +1,8 @@
 using System;
 
-namespace QuanLy{
+namespace Models{
     interface ITable
     {
-        
+        void Input();
     }
 }

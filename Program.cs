@@ -40,13 +40,11 @@ namespace Models
 
         static void ShowMenu()
         {
-            Console.WriteLine("1. ");
-            Console.WriteLine("2. ");
-            Console.WriteLine("3. ");
-            Console.WriteLine("4.Danh sach ban con trong");
-            Console.WriteLine("5. ");
-            Console.WriteLine("6. ");
-            Console.WriteLine("7. Thoat");
+            Console.WriteLine("1. Nhap Nha Hang ");
+            Console.WriteLine("2. Hien Thi Nha Hang ");
+            Console.WriteLine("3. Dat Ban ");
+            Console.WriteLine("4. Danh sach ban con trong");
+            Console.WriteLine("5. Thoat"); 
             Console.WriteLine("Chon: ");
         }
     }
